@@ -1,0 +1,12 @@
+C:/Users/kylez/OneDrive/Desktop/Project2/build/CMakeFiles/Tests.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/CMakeFiles/test.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/CMakeFiles/edit_cache.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/CMakeFiles/test.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/src/CMakeFiles/test.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+C:/Users/kylez/OneDrive/Desktop/Project2/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
